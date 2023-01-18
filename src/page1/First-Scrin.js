@@ -65,6 +65,8 @@ const FirstScrin = () => {
         }
       };
     
+    //сделать граммотную семантику
+    
     return(
         <>
             <div className='first_reactangle_block'>
